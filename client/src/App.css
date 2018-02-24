@@ -29,6 +29,16 @@
   .adi{
     padding-bottom: 2% !important ;
   }
+
+.footer {
+  background-color: #222;  
+  width: 100% !important;
+  padding-top: 1% !important;
+  padding-bottom: 0.01% !important;
+  margin: auto;
+  color: white;
+ }
+
 }
 
 
