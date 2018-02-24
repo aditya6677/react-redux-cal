@@ -110,3 +110,17 @@
   padding-top: 0.6%;
   padding-bottom: 0.5%;
 }
+
+.footer {
+  background-color: #222;
+  
+  width: 62%;
+  padding-top: 0.4%;
+  padding-bottom: 0.001%;
+  margin: auto;
+  color: white;
+}
+
+.coll{
+  color: red;
+}

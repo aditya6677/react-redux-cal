@@ -162,6 +162,11 @@ class App extends Component {
                   </div>:<div></div>
             ))}
       </div>
+        <div className="pad">
+          <header className="footer">
+              <p>In <span class="glyphicon glyphicon-heart coll"></span> With ReactJS</p>
+          </header>
+        </div>
     </div>
     );
   }
