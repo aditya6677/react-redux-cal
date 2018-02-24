@@ -12,7 +12,7 @@ class App extends Component {
           ot :true
         }
   componentDidMount() {
-    fetch('http://localhost:5000/api')
+    fetch('http://letscode.live:5000/api')
       .then(res => res.json())
       .then(data => this.setState({ users:data.result.ongoing,less:data.result.upcoming }));
   }
@@ -164,7 +164,7 @@ class App extends Component {
       </div>
         <div className="pad">
           <header className="footer">
-              <p>In <span class="glyphicon glyphicon-heart coll"></span> With ReactJS</p>
+              <p>In <span className="glyphicon glyphicon-heart coll"></span> With ReactJS</p>
           </header>
         </div>
     </div>
