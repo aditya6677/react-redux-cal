@@ -5,8 +5,8 @@
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1",
-    "webpack": "^3.11.0"
+    "react-scripts": "5.0.1",
+    "webpack": "^5.75.0"
   },
   "scripts": {
     "start": "PORT=80 react-scripts start",
